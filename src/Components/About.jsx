@@ -1,6 +1,6 @@
 import React from "react";
 import "../Styles/about.css";
-import myphoto from "../Images/myphoto.jpg";
+import myphoto from "../Images/myphoto.png";
 import SaiHimaSindhu_Resume from "../files/SaiHimaSindhu_Resume.pdf";
 
 const About = ({ ref, func }) => {
